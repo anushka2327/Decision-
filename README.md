@@ -16,8 +16,8 @@ This program generates a flipped version of Floyd's Triangle using nested loops.
 ## Logic:
 This program constructs Floyd's Triangle using nested for loops. The numbers are printed in a right-angled triangular format, starting from 1 at the top and continuing sequentially.   
 ## Program 5: Password Check with While Loop
-Logic:
-This program prompts the user to enter a password and uses a while loop to keep asking for input until the correct password is entered. It demonstrates how loops can be used for validation purposes.  
+## Logic:
+This program prompts the user to enter a password and uses a while loop to keep asking for input until the correct password is entered. It demonstrates how loops can be used for validation purposes.    
 
 ## Program 6: Reverse Star Pattern
 ## Logic:
