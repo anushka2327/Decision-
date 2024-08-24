@@ -4,7 +4,7 @@
 This experiment focuses on implementing various decision-making statements and loops in C++. Each program demonstrates a unique aspect of control flow, including if-else, while, do-while, and nested loops.  
 ## Programs Overview:
 ## Program 1: while loop from 1 to 20:
-# logic :
+## logic :
 This program uses a while loop to print numbers from 1 to 20. It demonstrates the basic structure of a while loop, where the condition is checked before executing the loop body.  
 ## Program 2: Do while loop example:  
 ## Logic:  
